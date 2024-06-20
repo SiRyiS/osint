@@ -1,16 +1,28 @@
 # Recon
 
-## Core Elements and Information Resources
+## Core Elements
 
-| Core Elements       | Information Resources |
-| ------------------- | --------------------- |
-| Company Information | Home Page             |
-| Infrastructure      | Files                 |
-| Leaks               | Social Networks       |
-|                     | Search Engines        |
-|                     | Development Platforms |
-|                     | Leak Resources        |
-|                     | Forums                |
+| Company Information | Infrastructure            | Leaks                         |
+|---------------------|---------------------------|-------------------------------|
+| Organization        | Domain Information        | Archives                      |
+| Locations           | Public Domain Records     | Internal Leaks                |
+| Staff               | Domain Structure          | Breaches                      |
+| Contact Information | Cloud Storage             | Email Addresses               |
+| Business Records    |                           | Third-Parties                 |
+| Services            |                           | Compounded Social Networks    |
+| Social Networks     |                           | Technologies in Use           |
+## Information Resources
+
+| Information Resources |
+| --------------------- |
+| Home Page             |
+| Files                 |
+| Social Networks       |
+| Search Engines        |
+| Development Platforms |
+| Leak Resources        |
+| Forums                |
+___
 ## Target Information
 - **Organization**
 	- Home Page
